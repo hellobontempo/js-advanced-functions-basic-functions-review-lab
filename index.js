@@ -47,6 +47,6 @@ function actionApplyer(num, functions) {
     }
 }
 
-//using for
+// using 'for':
 // for (let i = 0; i < functions.length; i++)
 // num = functions[i](num)
